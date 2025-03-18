@@ -1,0 +1,8 @@
+input: I see a charge on my credit card statement but I paid on time, why?
+category: top_up_by_cash_or_cheque
+
+input: Do you have a branch in Timbuktu?
+category: getting_spare_card
+
+input: I lost my card and my replacement card has not arrived.
+category: cash_withdrawal_charge
